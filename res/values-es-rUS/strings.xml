@@ -17,8 +17,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"Visualizador de HTML"</string>
-    <!-- no translation found for cannot_open_link (351048140767211378) -->
-    <skip />
-    <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
-    <skip />
+    <string name="storage_permission_missed_hint">"Falta el permiso de almacenamiento necesario. Por lo tanto, no puede funcionar normalmente. Compruebe su configuración de permisos."</string>
+    <string name="file_size">"El archivo es demasiado grande, no se puede abrir."</string>
+    <string name="ok">"Aceptar"</string>
+
 </resources>

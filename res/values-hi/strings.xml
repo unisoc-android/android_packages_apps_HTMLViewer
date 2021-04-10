@@ -17,8 +17,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"HTML व्यूअर"</string>
-    <!-- no translation found for cannot_open_link (351048140767211378) -->
-    <skip />
-    <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
-    <skip />
+    <string name="storage_permission_missed_hint">"जरूरी स्टोरेज अनुमति नहीं मिली, इसलिए सामान्य ढंग से नहीं किया  जा सकता। कृपया अपनी अनुमति सेटिंग्स देखें। "</string>
+    <string name="file_size">"फाइल बहुत बड़ी होने के कारन खुल नहीं पा रही हैं "</string>
+    <string name="ok">"ठीक"</string>
+
 </resources>

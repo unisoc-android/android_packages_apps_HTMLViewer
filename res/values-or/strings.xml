@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"HTML ଭିଉଅର୍"</string>
+    <string name="storage_permission_missed_hint">"ଆବଶ୍ୟକ ଷ୍ଟୋରେଜ୍ ଅନୁମତି ହରାଇଛି । ତେଣୁ ସାଧାରଣଭାବରେ ପ୍ରଦର୍ଶନ କରିପାରିବ ନାହିଁ । ଦୟାକରି ଆପଣଙ୍କର ଅନୁମତି ସେଟିଂସ୍ ଯାଂଚ କରନ୍ତୁ ।"</string>
+    <string name="file_size">"ଫାଇଲ୍‍ଟି ଅତ୍ୟନ୍ତ ବଡ଼, ଖୋଲାଯାଇପାରିବ ନାହିଁ |"</string>
+    <string name="ok">"ଠିକଠାକ"</string>
+</resources>

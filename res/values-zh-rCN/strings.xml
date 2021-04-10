@@ -18,6 +18,9 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"HTML 查看程序"</string>
     <!-- no translation found for cannot_open_link (351048140767211378) -->
+    <string name="storage_permission_missed_hint">缺乏必要的存储空间权限，因此无法正常执行。请检查你的权限设定。</string>
+    <string name="file_size">这个文件太大，不能够被打开。</string>
+    <string name="ok">确认</string>
     <skip />
     <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
     <skip />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"HTML ကြည့်ရှုသူ"</string>
+    <string name="storage_permission_missed_hint">"လိုအပ်သော သိုလှောင်ခန်းခွင့်ပြုချက်နှင့် လွဲသွားသည်။ ထို့ကြောင့် ပုံမှန် မလုပ်ဆောင်နိုင်ပါ။ သင်၏ ခွင့်ပြုချက်ဆက်တင်များကို စစ်ဆေးပေးပါ။"</string>
+    <string name="file_size">"ဖိုင်ကြီးလွန်းသဖြင့် ဖွင့်၍ မရပါ။"</string>
+    <string name="ok">"အိုကေ"</string>
+</resources>

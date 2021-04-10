@@ -17,8 +17,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"Tagatingin ng HTML"</string>
-    <!-- no translation found for cannot_open_link (351048140767211378) -->
-    <skip />
-    <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
-    <skip />
+    <string name="storage_permission_missed_hint">"Pumalyang permiso para sa kinakailangang pag-imbak. Kaya hindi maaaring gumanap nang normal. Mangyaring suriin ang iyong mga pagtatakda sa patnugot."</string>
+    <string name="file_size">"Masyadong malaki ang file, hindi ito mabuksan."</string>
+    <string name="ok">OK</string>
+
 </resources>

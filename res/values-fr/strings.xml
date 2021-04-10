@@ -17,8 +17,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"Visionneuse HTML"</string>
-    <!-- no translation found for cannot_open_link (351048140767211378) -->
-    <skip />
-    <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
-    <skip />
+    <string name="storage_permission_missed_hint">"Absence de l\'autorisation de stockage requis. Donc il ne peut pas fonctionner normalement. S\'il vous plaît vérifier vos paramètres d\'autorisation."</string>
+    <string name="file_size">"Le fichier est trop volumineux et ne peut être ouvert."</string>
+    <string name="ok">"OK"</string>
+
 </resources>

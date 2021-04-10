@@ -17,8 +17,8 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3773515048729290843">"عارض HTML"</string>
-    <!-- no translation found for cannot_open_link (351048140767211378) -->
-    <skip />
-    <!-- no translation found for turn_on_storage_permission (2439291399381962689) -->
-    <skip />
+    <string name="storage_permission_missed_hint">"لا توجد أذون التخزين المطلوبة. لذا لا يمكن العمل بشكل طبيعي. يرجى التحقق من إعدادات الأذون."</string>
+    <string name="file_size">"حجم الملف كبير للغاية، لذلك لا يمكن فتحه."</string>
+    <string name="ok">"إعادة تسمية"</string>
+
 </resources>

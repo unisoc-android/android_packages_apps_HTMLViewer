@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Visualizador de HTML"</string>
+    <string name="storage_permission_missed_hint">"Requer permissão para armazenamento. Portanto, não é possível realizá-lo nromalmente. Por favor verifique os ajustes de permissão."</string>
+    <string name="file_size">"O arquivo é grande demais, não é possível abri-lo."</string>
+    <string name="ok">"OK"</string>
+</resources>
